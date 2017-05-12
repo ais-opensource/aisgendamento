@@ -1,0 +1,23 @@
+{
+  "name": "AISGendamento",
+  "version": "1",
+  "description": "App para controlar a parada inteira",
+  "main": "index.js",
+  "author": "Andre de Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.48.0",
+    "babel-runtime": "^6.23.0",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-react-app": "^2.2.0",
+    "glob": "^7.1.1",
+    "serverless-webpack": "^1.0.0-rc.4",
+    "webpack": "^2.4.1",
+    "webpack-node-externals": "^1.5.4"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "body": "{\"nome\":\"hello world\",\"duracao\":\"hello.jpg\",\"preco\":\"hello.jpg\",\"genero\":\"hello.jpg\",\"nivelAdrenalina\":\"hello.jpg\"}",
+  "requestContext": {
+    "authorizer": {
+      "claims": {
+        "sub": "user-sub-1234"
+      }
+    }
+  }
+}
